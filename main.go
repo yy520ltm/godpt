@@ -10,7 +10,7 @@ import (
 )
 
 func main() {
-	testIsStat()
+	test()
 }
 
 //最简单的调用 开启一个定时器
